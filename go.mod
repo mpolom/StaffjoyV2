@@ -15,7 +15,7 @@ require (
 	github.com/gorilla/csrf v1.7.1
 	github.com/gorilla/mux v1.8.0
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
-	github.com/mailgun/mailgun-go/v4 v4.6.1
+	github.com/mailgun/mailgun-go/v4 v4.12.0
 	github.com/russross/blackfriday/v2 v2.1.0
 	github.com/sirupsen/logrus v1.8.1
 	github.com/stretchr/testify v1.7.0
@@ -33,6 +33,7 @@ require (
 	github.com/certifi/gocertifi v0.0.0-20210429200110-83314bf6d27c // indirect
 	github.com/daaku/go.zipexe v1.0.1 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
+	github.com/go-chi/chi/v5 v5.0.8 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/gorilla/securecookie v1.1.1 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
