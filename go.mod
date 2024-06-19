@@ -3,7 +3,7 @@ module v2.staffjoy.com
 go 1.18
 
 require (
-	github.com/GeertJohan/go.rice v1.0.2
+	github.com/GeertJohan/go.rice v1.0.3
 	github.com/dpapathanasiou/go-recaptcha v0.0.0-20190121160230-be5090b17804
 	github.com/fatih/structs v1.1.0
 	github.com/getsentry/raven-go v0.1.2-0.20190619092523-5c24d5110e0e
@@ -31,7 +31,7 @@ require (
 
 require (
 	github.com/certifi/gocertifi v0.0.0-20210429200110-83314bf6d27c // indirect
-	github.com/daaku/go.zipexe v1.0.1 // indirect
+	github.com/daaku/go.zipexe v1.0.2 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/gorilla/securecookie v1.1.1 // indirect
